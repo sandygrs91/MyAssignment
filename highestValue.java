@@ -10,7 +10,8 @@ public class highestValue {
 
         else if  (b>a && b>c)
 
-          {System.out.println("Value B will be the greatest" + b);}
+          {System.out.println("Value B will be the greatest" + b);
+              System.out.println("checking ");}
 
 
          else
